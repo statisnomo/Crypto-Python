@@ -12,7 +12,7 @@ Cryptocurrencies have disrupted traditional financial systems, offering new oppo
 However, regulatory challenges, concerns about illicit activities, and market volatility have prompted governments and financial institutions to adopt various approaches, ranging from acceptance to scepticism.
 In conclusion, cryptocurrency represents a transformative force in the world of finance. Its underlying blockchain technology has implications far beyond currency, influencing industries and sectors globally. As cryptocurrencies continue to evolve, finding a balance between innovation and regulation will be crucial for their sustained growth and integration into mainstream finance.
 
-#*PURPOSE*
+*PURPOSE*
 
 The overarching purpose of this project is to develop a robust and user-friendly platform that effectively taps into the wealth of information provided by cryptocurrency-related APIs. By integrating real-time data, historical trends, and detailed insights into a diverse array of cryptocurrencies, the program aspires to cater to both seasoned investors and individuals seeking to enhance their understanding of the cryptocurrency landscape.
 
@@ -26,7 +26,7 @@ Furthermore, the platform aims to foster a holistic view of the cryptocurrency m
 
 In essence, this program envisions becoming a go-to resource for anyone interested in cryptocurrencies, offering a dynamic and interactive experience that goes beyond simple price tracking. It aligns with the ever-evolving nature of the digital asset landscape, providing users with the necessary tools to navigate and thrive in this dynamic financial ecosystem.
 
-#*OBJECTIVE*
+*OBJECTIVE*
 
 Informational Insights: 
 Provide a fundamental introduction to cryptocurrency concepts, blockchain technology, and the diverse range of digital assets available.
@@ -48,7 +48,7 @@ This project is designed to be a comprehensive resource, fostering a deeper unde
 
 
 
-#*MODULES USED IN PROJECT*
+*MODULES USED IN PROJECT*
 
 Pandas Module:
 The Pandas module is a powerful data manipulation and analysis library in Python. In this project, it is used to handle and manipulate the cryptocurrency data stored in a CSV file. Pandas provides functionalities for filtering, updating, and displaying tabular data, making it a valuable tool for managing the program's internal database.
