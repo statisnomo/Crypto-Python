@@ -1,5 +1,6 @@
 # INTRODUCTION
 *CryptoCurrency Analysis and Visualization Program*
+
 In the dynamic landscape of digital finance, understanding and tracking cryptocurrency trends is crucial for both enthusiasts and investors. 
 What is Cryptocurrency?
 Cryptocurrency is a groundbreaking concept that has transformed the landscape of traditional finance. Emerging in the wake of the 2008 financial crisis, it aimed to address issues of centralization, security, and accessibility. Here outlined are, the fundamental aspects of cryptocurrency, its underlying technology, and its impact on the global economy.
